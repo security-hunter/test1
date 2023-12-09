@@ -1,1 +1,1 @@
-## !(xss)[javascript:alert()] ##
+## (xss)[javascript:alert()] ##
